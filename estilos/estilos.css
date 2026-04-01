@@ -5,19 +5,21 @@
 }
 body {
     font-family: Arial, sans-serif; /* Fuente legible para el cuerpo del documento */
-    background-color: #e8e4e4;/* Fondo claro para el cuerpo del documento */
-    color: #333;/* Color de texto oscuro para mejor legibilidad */
+    background-color: #e9e7e7e7;/* Fondo claro para el cuerpo del documento */
+    color: #000000;/* Color de texto oscuro para mejor legibilidad */
+    width: 500px; /* Ancho fijo para el cuerpo del documento */
+    margin: 20px auto; /* Centra el cuerpo del documento horizontalmente */
 }
 div {
     margin: 20px;  /* Agrega espacio entre los contenedores */
     padding: 20px;/* Agrega espacio interno a los contenedores */
-    background-color: #fff; /* Fondo blanco para los contenedores */
+    background-color: #747070; /* Fondo  para los contenedores */
     border-radius: 8px; /* Agrega bordes redondeados */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Agrega una sombra suave */
+    box-shadow: 0 2px 4px rgb(36, 31, 31); /* Agrega una sombra suave */
    
 }
 h2 {
-    color: #af5b4c; /* Color verde para los títulos */
+    color: #f6f6f6; /* Color verde para los títulos */
     margin-bottom: 10px; /* Espacio debajo de los títulos */
 }
 p {
