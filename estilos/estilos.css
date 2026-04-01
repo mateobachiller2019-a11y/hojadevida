@@ -1,0 +1,26 @@
+* {
+    margin: 0; /* Elimina el margen predeterminado de todos los elementos */
+    padding: 0; /* Elimina el relleno predeterminado de todos los elementos */
+    box-sizing: border-box; /* Asegura que el padding y el borde se incluyan en el tamaño total del elemento */
+}
+body {
+    font-family: Arial, sans-serif; /* Fuente legible para el cuerpo del documento */
+    background-color: #e8e4e4;/* Fondo claro para el cuerpo del documento */
+    color: #333;/* Color de texto oscuro para mejor legibilidad */
+}
+div {
+    margin: 20px;  /* Agrega espacio entre los contenedores */
+    padding: 20px;/* Agrega espacio interno a los contenedores */
+    background-color: #fff; /* Fondo blanco para los contenedores */
+    border-radius: 8px; /* Agrega bordes redondeados */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Agrega una sombra suave */
+   
+}
+h2 {
+    color: #af5b4c; /* Color verde para los títulos */
+    margin-bottom: 10px; /* Espacio debajo de los títulos */
+}
+p {
+    margin-bottom: 10px; /* Espacio debajo de los párrafos */
+    line-height: 1; /* Mejora la legibilidad del texto */
+}
